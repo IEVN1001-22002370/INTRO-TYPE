@@ -7,7 +7,8 @@ import { setupCounter } from './counter.ts'
 //import './temaTS/02-obj-interfaz-arre.ts'
 //import './temaTS/03-funciones.ts'
 //import './temaTS/04-desestructuracion-obj-arre.ts'
-import './temaTS/05-desetructuracion-funciones.ts';
+//import './temaTS/05-desetructuracion-funciones.ts';
+import './temaTS/08-herencias.ts';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
